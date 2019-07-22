@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dd623e4d3bd6fa046851df033f120b59
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - arrowPrefab: {fileID: 252961616138020572, guid: f38eec32858d5624283f7c0dae9ea529,
+      type: 3}
+  - viewCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
